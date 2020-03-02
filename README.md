@@ -14,7 +14,7 @@ This take home test is used to determine how you go about solving problems logic
 
 Managing product inventory requires adding products to a product catalog and adding warehouses to store the products.
 
-Develop a backend app that exposes endpoints API for managing inventory at a Regov Warehouse.
+Develop a backend app that exposes endpoints API for managing inventory with these nine (9) functionality:
 
 1. Add product
 2. Add warehouse
@@ -41,7 +41,7 @@ Develop a backend app that exposes endpoints API for managing inventory at a Reg
   - Delete warehouse
 - As a user I can logout from the system
 
-Note:
+NOTE:
 Stock: stocks is the quantity amount of a product with Regov Warehouse
 Unstock: unstocks the amount of product with Regov in Warehouse.
 
