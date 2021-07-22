@@ -56,7 +56,7 @@ Feel free to go above and beyond if you have ideas for extra features!
 
 ### The HandOver
 
-1. Send your implementation in Git Repo.
+- Send your implementation in Git Repo.
 
 ### The Review
 
